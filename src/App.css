@@ -1,0 +1,32 @@
+body{
+ background-color: beige;
+}
+
+h1{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+/* input{
+margin: auto;
+width: 50%;
+border: 3px solid green;
+padding: 10px;
+
+} */
+button{
+  margin-bottom: 10px;
+  display: inline;
+}
+.grid-container{
+  display: inline-grid;
+  row-gap: 10px;
+  column-gap: 50px;
+
+}
+p{
+  font-size: medium;
+}
+h4{
+  text-align:justify;
+}
